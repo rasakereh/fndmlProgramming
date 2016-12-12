@@ -8,3 +8,8 @@ void main()
 	scanf("%d%d", &a, &b);
 	printf("\n%d + %d = %d\n", a, b, a+b);
 }
+
+int isEven(int n)
+{
+	return !(n % 2);
+}
