@@ -19,3 +19,11 @@ void main()
 	scanf("%d%d", &a, &b);
 	printf("\n%d + %d = %d\n", a, b, a+b);
 }
+<<<<<<< HEAD
+=======
+
+int isEven(int n)
+{
+	return !(n % 2);
+}
+>>>>>>> 7f9daf7b9f916400c8eaa2b861ae1a0ac6312713
